@@ -1,5 +1,9 @@
 # Cyber Defender
 Cyber Defender is a Scratch game created for CS50x Problem Set 0.
+
+## Play Online
+[Play Cyber Defender on Scratch](https://scratch.mit.edu/projects/1382910148/)
+
 ## How to Play 
 - Use the left and right arrow keys to move the robot.
 - Collect the falling data stars to increase your score. 
